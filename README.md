@@ -1,6 +1,6 @@
 #  Block course: Sustainable Software Development
 # Assignment Tasks
-# Statistical Analysis
+# Analysis
 >
 -Anja: Statistical Part 1-4
 >
