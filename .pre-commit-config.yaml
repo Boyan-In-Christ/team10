@@ -1,5 +1,5 @@
 repos:
 - repo: https://github.com/kynan/nbstripout
-  rev: master 
+  rev: master
   hooks:
-  - id: nbstripout
+    - id: nbstripout
