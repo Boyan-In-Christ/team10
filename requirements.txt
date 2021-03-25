@@ -1,0 +1,10 @@
+numpy
+pandas
+seaborn
+statistical
+mathlibplot
+flake8
+pytest
+sphinx
+recommonmark
+
