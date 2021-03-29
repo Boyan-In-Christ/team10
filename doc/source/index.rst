@@ -3,13 +3,24 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to package_team10's documentation!
-==========================================
+This is the documentation for package_team10
+============================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   README
    modules
+
+Guide
+=====
+
+.. toctree::
+   :maxdepth: 2
+   
+   help
+   License
 
 Indices and tables
 ==================
