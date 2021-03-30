@@ -35,7 +35,7 @@ jobs:
         pip install -r requirements.txt
     - name: Run linter
       run: flake8
-    - name: Run pytest
-      run: |
-        cd src
-        python -m pytest
+   # - name: Run pytest
+   #   run: |
+    #    cd src
+     #   python -m pytest
