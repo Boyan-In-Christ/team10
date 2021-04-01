@@ -1,8 +1,7 @@
 numpy
 pandas
 seaborn
-statistical
-mathlibplot
+matplotlib
 flake8
 pytest
 sphinx
